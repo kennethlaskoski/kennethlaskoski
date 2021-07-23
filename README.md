@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennethlaskoski
-- 👀 I’m interested in mobile development, computer vision and physics
+- 👀 I’m interested in software development and physics
 - 🌱 I’m currently learning 3D capture with lidar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
